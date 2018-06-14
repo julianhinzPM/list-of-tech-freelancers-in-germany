@@ -32,6 +32,7 @@
 | Kevin Eulenberg          | Developer for eCommerce BE / FE  	 | [website](http://frontend.hamburg/) 
 | Simon Ernst              | Senior Ruby Developer / DevOps      | [CV](https://simonernst.com/cv/)    
 
+| Julian Hinz              | Product Manager/Owner               | [LinkedIn](https://www.linkedin.com/in/julian-hinz)
 
 ## Berlin
 
